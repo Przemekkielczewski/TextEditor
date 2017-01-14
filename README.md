@@ -1,3 +1,2 @@
 # TextEditor
-
-This is a short program similar to Notepad. 
+I wanted to write something that has a MenuBar and review some basic skills of writing and reading files.  
